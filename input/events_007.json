@@ -1,0 +1,9 @@
+{
+    "event_id": "",
+    "type": "payment",
+    "timestamp": "invalid-time",
+    "payload": {
+        "amount": -10,
+        "currency": "USD"
+    }
+}

@@ -1,0 +1,13 @@
+2025/12/24 08:45:58 Started openning - events_002.yaml
+2025/12/24 08:45:58 Started openning - events_001.json
+2025/12/24 08:45:58 Started openning - events_003.xml
+2025/12/24 08:45:58 Started openning - events_004.json
+2025/12/24 08:45:59 Started openning - events_005.yaml
+2025/12/24 08:45:59 parse json - input\events_004.json error: json: cannot unmarshal array into Go value of type model.Event
+2025/12/24 08:45:59 Started openning - events_006.xml
+2025/12/24 08:45:59 parse xml - input\events_006.xml error: XML syntax error on line 8: element <payload> closed by </event>
+2025/12/24 08:45:59 Empty currency in input\events_005.yaml
+2025/12/24 08:45:59 Started openning - events_007.json
+2025/12/24 08:45:59 parse json - input\events_007.json error: parsing time "invalid-time" as "2006-01-02T15:04:05Z07:00": cannot parse "invalid-time" as "2006"
+2025/12/24 08:45:59 e003 Ended
+2025/12/24 08:45:59 e001 Ended

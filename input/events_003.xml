@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event>
+  <event_id>e003</event_id>
+  <type>payment</type>
+  <timestamp>2025-12-01T12:30:00Z</timestamp>
+  <payload>
+    <amount>500</amount>
+    <currency>EUR</currency>
+    <meta>
+      <country>DE</country>
+      <provider>
+        <name>Stripe</name>
+        <region>EU</region>
+      </provider>
+    </meta>
+  </payload>
+</event>

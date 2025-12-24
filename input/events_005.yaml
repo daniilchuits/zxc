@@ -1,0 +1,9 @@
+event_id: e006
+type: payment
+timestamp: 2025-12-01T14:20:00Z
+payload:
+  a:
+    b:
+      c:
+        d:
+          value: 42

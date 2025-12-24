@@ -1,0 +1,16 @@
+{
+    "event_id": "e001",
+    "type": "payment",
+    "timestamp": "2025-12-01T10:15:30Z",
+    "payload": {
+        "amount": 1200,
+        "currency": "USD",
+        "details": {
+            "method": "card",
+            "card": {
+                "last4": "4242",
+                "issuer": "VISA"
+            }
+        }
+    }
+}

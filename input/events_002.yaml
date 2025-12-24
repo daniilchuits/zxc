@@ -1,0 +1,9 @@
+event_id: e002
+type: refund
+timestamp: 2025-12-01T11:00:00Z
+payload:
+  amount: 200
+  currency: USD
+  reason:
+    code: CUSTOMER_REQUEST
+    comment: "User changed mind"

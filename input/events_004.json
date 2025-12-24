@@ -1,0 +1,21 @@
+[
+    {
+        "event_id": "e004",
+        "type": "payment",
+        "timestamp": "2025-12-01T13:00:00Z",
+        "payload": {
+            "amount": 300,
+            "currency": "USD"
+        }
+    },
+    {
+        "event_id": "e005",
+        "type": "refund",
+        "timestamp": "2025-12-01T13:05:00Z",
+        "payload": {
+            "amount": 300,
+            "currency": "USD",
+            "original_event": "e004"
+        }
+    }
+]
